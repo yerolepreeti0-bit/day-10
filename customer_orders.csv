@@ -1,0 +1,10 @@
+Order_ID,Price,Date,Customer_Name , location 
+1001,$250,2004-02-02,sneha,bangalore
+1002,$180,2002-11-12,pavi,chennai
+1003,$320,2004-06-02,preeti,hyderabad
+1004,$150,2004-04-23,Sanjana,DEHLI
+1005,$275,2025-01-09,Anjali,mumbai
+1006,$90,2008-03-23,Adi,kolkata
+1007,$410,2005-06-18,Akash,pune
+1008,$220,2025-01-12,Meena,mysore
+

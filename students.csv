@@ -1,0 +1,9 @@
+Student_ID,Name,Math_Score,Science_Score,English_Score,Attendance_Percentage,Study_Hours_per_Week,Parent_Education_Level,Final_Result(Pass/Fail)
+101,sneha,85,90,88,95,12,Graduate,Pass
+102,rahul,78,,82,88,10,Undergraduate,Pass
+103,anita,92,89,,92,14,Postgraduate,Pass
+104,kiran,65,70,68,75,8,High School,Fail
+105,meena,,85,80,90,11,Graduate,Pass
+106,arjun,55,60,58,,6,High School,Fail
+107,sneha,85,90,88,95,12,Graduate,Pass
+108,,88,92,85,69,9,Undergraduate,Fail
